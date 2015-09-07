@@ -1,0 +1,22 @@
+{
+  "name": "sample-rest-project",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kristofkotai/sample-rest-project.git"
+  },
+  "author": "Kristof Kotai",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/kristofkotai/sample-rest-project/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3"
+  }
+}
